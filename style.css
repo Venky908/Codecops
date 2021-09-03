@@ -1,0 +1,37 @@
+.submit {
+      cursor: pointer;
+        border-radius: 5em;
+        color: #fff;
+        background: linear-gradient(to right, #9C27B0, #E040FB);
+        border: 0;
+        padding-right: 40px;
+        padding-left: 40px;
+        padding-bottom: 10px;
+        padding-top: 8px;
+        font-family: 'Ubuntu', sans-serif;
+        
+        font-size : 25px;
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
+.main {
+        background-color: #FFFFFF;
+        width: 500px;
+        height: 1000px;
+        margin : 6em auto;
+        border-radius: 1.5em;
+        box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+.main2 {
+        background-color: #FFFFFF;
+        width: 1200px;
+        height: 650px;
+        margin: 3em auto;
+        border-radius: 1.5em;
+        box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+.te {
+      padding-bottom: 11px;
+      padding-top: 11px;
+      padding-left: 10px;
+      padding-right: 10px;
+}
