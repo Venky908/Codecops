@@ -1,3 +1,7 @@
+body {
+        background-color: #F3EBF6;
+        font-family: 'Ubuntu', sans-serif;
+}
 .main {
         background-color: #FFFFFF;
         width: 99%;
@@ -27,4 +31,12 @@
         margin-top : -600px;
         border-radius: 1.5em;
         box-shadow: 2px 1px 10px 8px rgba(0, 0, 0, 0.14);
+}
+.donate {
+        padding-top: 20px;
+        color: #8C55AA;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: bold;
+        font-size: 30px;
+	text-align:center;
 }
